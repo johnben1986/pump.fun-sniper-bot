@@ -1,7 +1,7 @@
--Basic Sniper Bot-
+-Pump.fun Basic Sniper Bot-
 
 Function:
-1. Buy when new mint pumpfun meme token
+1. Buy a new mint pumpfun meme token
 2. Take profit by percentage
 3. Config slippage
 4. Config Amount of SOL to buy
@@ -17,7 +17,7 @@ Instruction:
 
 Issues:
 1. Very slow transaction
-2. Failed when last minute curve complete
+2. Failed when last-minute curve complete
 
 Source code for sale:
 1. Pumpfun Sniper Bot using jito
